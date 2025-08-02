@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'YS Display';
     src: url(https://yastatic.net/s3/translate/fnt/modern/YSDisplay-Regular.woff2) format('woff2'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSDisplay/YSDisplay-Regular/YSDisplay-Regular.woff2) format('woff2'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSDisplay/YSDisplay-Regular/YSDisplay-Regular.woff2) format('woff2'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSDisplay-Regular.woff) format('woff'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSDisplay/YSDisplay-Regular/YSDisplay-Regular.woff) format('woff'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSDisplay/YSDisplay-Regular/YSDisplay-Regular.woff) format('woff'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSDisplay-Regular.ttf) format('truetype'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSDisplay/YSDisplay-Regular/YSDisplay-Regular.ttf) format('truetype');
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSDisplay/YSDisplay-Regular/YSDisplay-Regular.ttf) format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: auto;
@@ -14,11 +14,11 @@
 @font-face {
     font-family: 'YS Display';
     src: url(https://yastatic.net/s3/translate/fnt/modern/YSDisplay-Medium.woff2) format('woff2'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSDisplay/YSDisplay-Medium/YSDisplay-Medium.woff2) format('woff2'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSDisplay/YSDisplay-Medium/YSDisplay-Medium.woff2) format('woff2'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSDisplay-Medium.woff) format('woff'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSDisplay/YSDisplay-Medium/YSDisplay-Medium.woff) format('woff'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSDisplay/YSDisplay-Medium/YSDisplay-Medium.woff) format('woff'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSDisplay-Medium.ttf) format('truetype'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSDisplay/YSDisplay-Medium/YSDisplay-Medium.woff2) format('truetype');
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSDisplay/YSDisplay-Medium/YSDisplay-Medium.woff2) format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: auto;
@@ -27,11 +27,11 @@
 @font-face {
     font-family: 'YS Display';
     src: url(https://yastatic.net/s3/translate/fnt/modern/YSDisplay-Bold.woff2) format('woff2'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSDisplay/YSDisplay-Bold/YSDisplay-Bold.woff2) format('woff2'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSDisplay/YSDisplay-Bold/YSDisplay-Bold.woff2) format('woff2'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSDisplay-Bold.woff) format('woff'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSDisplay/YSDisplay-Bold/YSDisplay-Bold.woff) format('woff'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSDisplay/YSDisplay-Bold/YSDisplay-Bold.woff) format('woff'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSDisplay-Bold.ttf) format('truetype'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSDisplay/YSDisplay-Bold/YSDisplay-Bold.ttf) format('truetype');
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSDisplay/YSDisplay-Bold/YSDisplay-Bold.ttf) format('truetype');
     font-weight: 700;
     font-style: normal;
     font-display: auto;
@@ -40,11 +40,11 @@
 @font-face {
     font-family: 'YS Text';
     src: url(https://yastatic.net/s3/translate/fnt/modern/YSText-Regular.woff2) format('woff2'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSText/YSText-Regular/YSText-Regular.woff2) format('woff2'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSText/YSText-Regular/YSText-Regular.woff2) format('woff2'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSText-Regular.woff) format('woff'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSText/YSText-Regular/YSText-Regular.woff) format('woff'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSText/YSText-Regular/YSText-Regular.woff) format('woff'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSText-Regular.ttf) format('truetype'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSText/YSText-Regular/YSText-Regular.ttf) format('truetype');
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSText/YSText-Regular/YSText-Regular.ttf) format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: auto;
@@ -53,11 +53,11 @@
 @font-face {
     font-family: 'YS Text';
     src: url(https://yastatic.net/s3/translate/fnt/modern/YSText-Medium.woff2) format('woff2'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSText/YSText-Medium/YSText-Medium.woff2) format('woff2'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSText/YSText-Medium/YSText-Medium.woff2) format('woff2'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSText-Medium.woff) format('woff'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSText/YSText-Medium/YSText-Medium.woff) format('woff'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSText/YSText-Medium/YSText-Medium.woff) format('woff'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSText-Medium.ttf) format('truetype'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSText/YSText-Medium/YSText-Medium.ttf) format('truetype');
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSText/YSText-Medium/YSText-Medium.ttf) format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: auto;
@@ -66,11 +66,11 @@
 @font-face {
     font-family: 'YS Text';
     src: url(https://yastatic.net/s3/translate/fnt/modern/YSText-Bold.woff2) format('woff2'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSText/YSText-Bold/YSText-Bold.woff2) format('woff2'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSText/YSText-Bold/YSText-Bold.woff2) format('woff2'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSText-Bold.woff) format('woff'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSText/YSText-Bold/YSText-Bold.woff) format('woff'),
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSText/YSText-Bold/YSText-Bold.woff) format('woff'),
     url(https://yastatic.net/s3/translate/fnt/modern/YSText-Bold.ttf) format('truetype'),
-    url(https://raw.githubusercontent.com/imbecility/ys_fonts/refs/heads/main/fonts/YSText/YSText-Bold/YSText-Bold.ttf) format('truetype');
+    url(https://cdn.jsdelivr.net/gh/imbecility/ys_fonts@refs/heads/main/fonts/YSText/YSText-Bold/YSText-Bold.ttf) format('truetype');
     font-weight: 700;
     font-style: normal;
     font-display: auto;
